@@ -32,5 +32,6 @@ gem 'jbuilder', '~> 1.0.1'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
+#dummy comment to create new app with heroku
 
 
